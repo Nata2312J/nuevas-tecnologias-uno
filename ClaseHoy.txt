@@ -2,4 +2,5 @@ El dia de hoy tuvimos un repaso de los temas vistos la clase pasada asi como la 
 
 Es un sistema de control de versiones 
 
-Ramas como ignorar archivos para no ser comprometidos en el area de trabajo
+
+
